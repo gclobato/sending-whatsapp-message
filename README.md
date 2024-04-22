@@ -32,9 +32,7 @@ Para rodar o projeto "sending-whatsapp-message" usando Python, siga estas instru
     `pip install pywhatkit` 
     
 3.  **Execute o script**: Navegue até o diretório do projeto clonado e execute o script Python:
-    
-    bashCopy code
-    
+         
     `cd sending-whatsapp-message
     python sending_whatsapp_message.py` 
     
